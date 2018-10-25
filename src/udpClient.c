@@ -9,7 +9,7 @@
 #define BUFLEN 512
 #define NPACK 10
 #define PORT 9930
-//12345326542649949165494994916152089542951544545454514
+
 void diep(char *s) {
 	perror(s);
 	exit(1);
